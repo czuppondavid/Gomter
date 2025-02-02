@@ -3,8 +3,8 @@
 * Author: Czuppon Dávid
 * Copyright: 2024,Czuppon Dávid
 * Group: Szoft II/2/E
-* Date: 2024-12-08
-* Github: https://github.com/czuppondavid/
+* Date: 2025-02-02
+* Github: https://github.com/czuppondavid/Gomter.git
 * Licenc: MIT
 */
 
